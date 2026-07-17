@@ -194,6 +194,13 @@
         "password": "pass4566",
         "expirydate": "16-08-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "0ff7f3f25b878c9c",
+        "username": "utsav22",
+        "password": "pass4566",
+        "expirydate": "22-07-2026",
+        "Allowoffline": true
     }
 ]
 
