@@ -243,6 +243,13 @@
         "password": "pass4566",
         "expirydate": "16-08-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9e792db2ff1ca2fe",
+        "username": "pritam2",
+        "password": "pass4566",
+        "expirydate": "16-08-2029",
+        "Allowoffline": true
     }
 ]
 
